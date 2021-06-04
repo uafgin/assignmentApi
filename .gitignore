@@ -3,6 +3,7 @@
 # compiled
 /TasksApi/bin
 /TasksApi/obj
+/TasksApi/db.json
 
 # vs
 /.vs
